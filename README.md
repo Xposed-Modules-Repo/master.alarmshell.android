@@ -1,3 +1,5 @@
+# [传送门](https://github.com/7e1ce9fb/AlarmShell)
+
 ## 模块信息
 - 名称：时钟脚本
 - 作者：7e1ce9fb
