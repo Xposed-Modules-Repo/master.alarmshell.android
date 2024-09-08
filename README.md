@@ -1,4 +1,4 @@
-# [Bug反馈](https://github.com/7e1ce9fb/AlarmShell)
+## [Bug反馈](https://github.com/7e1ce9fb/AlarmShell)
 
 ## 模块信息
 - 名称：时钟脚本
